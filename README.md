@@ -1,2 +1,3 @@
-# sortemail
-[Bash] Sort Email
+# [Bash] Sort Email
+# Usage
+./sort.sh <mailist.txt>
